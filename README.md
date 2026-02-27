@@ -23,6 +23,7 @@ This repository showcases my practical experience in **Printed Circuit Board (PC
 
 ##  Projects Included
 - Breadboard Power Supply PCB
+- Pico Satellite Design PCB
 
 ##  Objective
 To develop industry-ready PCB design skills aligned with Embedded Systems and Core Electronics roles, focusing on clean layout practices, manufacturability, and hardware reliability.
