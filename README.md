@@ -5,7 +5,8 @@ This repository showcases my practical experience in **Printed Circuit Board (PC
 
 
 ##  Tools & Software Used
-- KiCad – Schematic design & PCB layout
+- KiCad 
+- EasyEDA
 
 
 
